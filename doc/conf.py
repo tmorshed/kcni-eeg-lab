@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'eeglabtest'
-copyright = '2021, johngrif'
-author = 'johngrif'
+project = 'KCNI EEG Lab'
+copyright = '2021, CAMH KCNI'
+author = 'John D. Griffiths et al.'
 
 # The full version, including alpha/beta/rc tags
 release = '0.1'
