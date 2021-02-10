@@ -1,0 +1,3 @@
+[submodule "studies/tay-eeg"]
+	path = studies/tay-eeg
+	url = https://github.com/andreeadiaconescu/tay-eeg
