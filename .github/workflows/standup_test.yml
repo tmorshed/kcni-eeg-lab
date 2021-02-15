@@ -16,8 +16,8 @@ jobs:
     - name: issue-bot
       uses: imjohnbo/issue-bot@v2
       with:
-        assignees: "comma, delimited, list, of, handles" # GitHub handles without the @
-        labels: "standup"
+        assignees: "JohnGriffiths" # GitHub handles without the @
+        labels: "maintenance"
         pinned: true
         close-previous: true
         template: ".github/ISSUE_TEMPLATE/standup.md" # assignees, labels will be overridden if present in YAML header
