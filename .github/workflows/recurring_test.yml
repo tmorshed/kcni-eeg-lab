@@ -2,8 +2,7 @@ name: Test recurring issue
 
 on:
   schedule:
-  - cron: */10 * * * *  # Every 10 mins – https://crontab.guru
-
+  - cron: 0 12 * * *  # Every day at noon – https://crontab.guru
 
 
 jobs:
