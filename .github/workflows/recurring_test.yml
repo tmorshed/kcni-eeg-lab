@@ -18,7 +18,7 @@ jobs:
     - name: issue-bot
       uses: imjohnbo/issue-bot@v2
       with:
-        assignees: "comma, delimited, list, of, handles, JohnGriffiths" # GitHub handles without the @
+        assignees: "JohnGriffiths" # GitHub handles without the @
         labels: "standup"
         pinned: true
         close-previous: true
