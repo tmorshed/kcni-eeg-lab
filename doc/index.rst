@@ -10,5 +10,5 @@ KCNI EEG Lab Documentation Pages
    experiment_setup.md
    project-board.md
    studies-folder.md
-  
+   devices.md
    
